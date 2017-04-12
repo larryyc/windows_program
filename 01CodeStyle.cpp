@@ -29,12 +29,7 @@ void Alert(int i)
 //于闯加的一行注释
 //于闯加的第二行注释
 //third zhushi
-<<<<<<< HEAD
 //fifth zhushi
-=======
-//fourth zhushi
-//six zhushi
->>>>>>> dev
 /*
 
 MessageBox(NULL, "Hello, Windows XP", "Greetings", MB_OKCANCEL);// 用空格分割参数
