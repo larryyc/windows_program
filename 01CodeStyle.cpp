@@ -19,7 +19,7 @@ void Alert(int i)
 {
 	while(i > 0)
 	{
-		// Beep函数会使扬声器发出简单的声音，
+		// Beep函数会使扬声器发出滴滴的声音，
 		// 要调用这个函数你应该包含上头文件“windows.h”
 		Beep(1000, 1000);   
 		i--;
@@ -27,6 +27,7 @@ void Alert(int i)
 }
 
 //于闯加的一行注释
+//于闯加的第二行注释
 /*
 
 MessageBox(NULL, "Hello, Windows XP", "Greetings", MB_OKCANCEL);// 用空格分割参数
